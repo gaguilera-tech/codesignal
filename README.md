@@ -1,0 +1,2 @@
+# codesignal
+Solving algorithms
